@@ -1,0 +1,2 @@
+# requirements.txt
+# Todas as bibliotecas utilizadas neste projeto já fazem parte do Python padrão
