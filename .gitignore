@@ -1,0 +1,22 @@
+# Ignore arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore notebooks temporários
+*.ipynb_checkpoints
+
+# Ignore arquivos de ambiente virtual (se houver)
+venv/
+env/
+.venv/
+
+# Ignore arquivos do JupyterLab
+.lab/
+
+# Ignore arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# NÃO ignore arquivos .py
+# (então NÃO coloque "*.py" aqui)
