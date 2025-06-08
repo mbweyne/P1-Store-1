@@ -1,3 +1,5 @@
+![Banner do Projeto](banner.png)
+
 # Store 1 - Análise de Dados de Clientes 🛒
 
 Este projeto simula a análise de dados de clientes de uma empresa de e-commerce (Store 1). Ele envolve:
