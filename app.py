@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 
 # Título e introdução
 st.title("📊 Projeto 1 – Store 1")
