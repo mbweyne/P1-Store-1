@@ -1,22 +1,25 @@
-# Ignore arquivos de cache do Python
+# Ignorar checkpoints de notebooks Jupyter
+.ipynb_checkpoints/
+
+# Ignorar arquivos Python compilados
 __pycache__/
 *.py[cod]
-*.pyo
 
-# Ignore notebooks temporários
-*.ipynb_checkpoints
+# Ignorar arquivos de dados
+*.csv
+*.tsv
+*.xls
+*.xlsx
 
-# Ignore arquivos de ambiente virtual (se houver)
-venv/
-env/
-.venv/
-
-# Ignore arquivos do JupyterLab
-.lab/
-
-# Ignore arquivos do sistema operacional
+# Ignorar arquivos temporários de sistemas
 .DS_Store
 Thumbs.db
 
-# NÃO ignore arquivos .py
-# (então NÃO coloque "*.py" aqui)
+# Ignorar ambientes virtuais
+.env/
+.venv/
+env/
+venv/
+
+# Outros arquivos que você não quer subir
+*.log
