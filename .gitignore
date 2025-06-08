@@ -24,3 +24,4 @@ venv/
 # Outros arquivos que você não quer subir
 *.log
 # Forçando detecção pelo Git
+# Arquivo ajustado para envio ao GitHub
